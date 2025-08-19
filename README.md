@@ -13,7 +13,7 @@ Construir una empresa que genere confianza y reduzca el miedo en las relaciones 
 * **Stakeholders:** clientes corporativos (p. ej., MaxiCassa, grupo de cinco empresas en reestructuración tecnológica), pymes con necesidades puntuales de automatización y universidades para contenidos de adopción tecnológica.
 * **Horizonte:** evolución por iteraciones; no se fija una fecha final. Cada proyecto incorpora lecciones y eleva el nivel de autogestión si se cumplen criterios de desempeño (ver abajo).
 
-### 1.3 Prácticas híbridas y de transición (aplicables de inmediato)
+### 1.3 Prácticas híbridas y de transición
 
 1. **Cumplimiento normativo sin fricción:** contratos laborales/mercantiles y procesos formales donde la ley lo exige (nómina, seguridad social, facturación), mientras el día a día del trabajo se organiza por acuerdos de célula.
 2. **Roles temporales y decisión distribuida:** responsables de resultado (no de cargo). Decisiones por consentimiento informado dentro de cada célula; se documentan supuestos, riesgos y dueños.
@@ -22,7 +22,7 @@ Construir una empresa que genere confianza y reduzca el miedo en las relaciones 
 5. **Compensación acordada por equipo:** incrementos y bonos atados a indicadores de impacto definidos por la célula (ahorro generado, NPS del cliente, cumplimiento de hitos), validados por un revisor cruzado de otra célula.
 6. **Rituales cortos y útiles:** planificación quincenal, revisiones post-hito con acciones correctivas obligatorias y tableros visibles para cliente y equipo.
 
-### 1.4 Fundamento y ejemplos **(con nombre y enlace verificable)**
+### 1.4 Fundamento y ejemplos 
 
 * **Bancolombia / Nequi (Colombia):** Documentado por MIT CISR como caso de transformación digital con nuevas formas de trabajo más ágiles y orientadas a equipos; Nequi se usó para aprender y luego escalar prácticas al banco matriz. Esto muestra que, en el contexto colombiano, la descentralización por equipos es viable si hay métricas, plataformas y gobierno claro. ([cisr.mit.edu][1], [Bancolombia][2])
 * **Rappi (Colombia):** Su blog de ingeniería describe organización por *squads* y liderazgo distribuido en unidades de producto, con énfasis en autonomía y reglas de cultura de equipo. Es un referente local de células con responsabilidad sobre resultados. ([Rappi Tech][3], [Medium][4])
@@ -31,7 +31,7 @@ Construir una empresa que genere confianza y reduzca el miedo en las relaciones 
 
 > **Nota:** estos ejemplos sirven como *referencias prácticas* de organización por células y decisión distribuida en Colombia/LatAm; no son modelos “copiar-pegar”. Se usan para sustentar que la combinación de cumplimiento formal + equipos autónomos funciona en nuestra región.
 
-### 1.5 Justificación (por qué hacerlo así)
+### 1.5 Justificación
 
 * **Ajuste cultural en Colombia:** pasar de control vertical a responsabilidad por resultados requiere transición. Empezar con lo legal-formal intacto reduce fricción y riesgos, mientras se mueven las decisiones al nivel del equipo. (Bancolombia/Nequi muestran esta senda gradual). ([cisr.mit.edu][1])
 * **Menos sobrecarga gerencial, más velocidad:** células con métricas y límites de autonomía bien definidos disminuyen cuellos de botella y tiempos de entrega (casos Rappi/Nubank/Globant). ([Rappi Tech][3], [Building Nubank][5], [Globant][6])
