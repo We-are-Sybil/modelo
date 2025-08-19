@@ -125,18 +125,6 @@ Los precios no se fijan de manera arbitraria:
 * **Protección mutua**: margen razonable asegura sostenibilidad de la empresa sin inflar costos; modelo de ahorro compartido alinea incentivos.
 * **Contexto colombiano**: rangos calculados con tarifas de mercado de perfiles técnicos y costos de nube local, ajustados por inflación y tipo de cambio actuales.
 
-
-Perfecto, con esa información podemos estructurar la **Sección 3: Estructura de costos y asignación** de manera que:
-
-* Mantenga la lógica de transparencia que propones (aunque no se revelen cifras exactas entre equipos desde el inicio).
-* Sea defendible ante clientes e inversionistas.
-* Incluya tu esquema del 30 % al grupo + 30 % a la empresa + inversión en formación/autonomía.
-* Se adapte al contexto colombiano y a tu filosofía de autogestión.
-
-Aquí te lo dejo redactado:
-
----
-
 ## 3. Estructura de Costos y Asignación
 
 ### 3.1 Principios generales
@@ -145,8 +133,6 @@ Aquí te lo dejo redactado:
 * **Autonomía presupuestal por equipo**: cada célula administra una parte de sus recursos para incentivos, formación y mejoras de su entorno de trabajo.
 * **Reinversión obligatoria**: el 30 % del ingreso total se destina directamente a la empresa para sostener innovación, formación y gastos comunes de infraestructura.
 * **Equidad ligada a experiencia**: perfiles con mayor nivel técnico o experiencia reciben remuneraciones acordes a bandas predefinidas y aprobadas por consenso inter–equipos.
-
----
 
 ### 3.2 Distribución de un ingreso típico por proyecto
 
