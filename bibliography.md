@@ -1,7 +1,0 @@
-[1]: https://cisr.mit.edu/publication/MIT_CISRwp455_Bancolombia_DiazBaqueroWoerner?utm_source=chatgpt.com "Bancolombia: Coordinating Multiple Digital Transformations - MIT CISR"
-[2]: https://www.bancolombia.com/acerca-de/sala-prensa/noticias/resultados-corporativos/instituto-tecnologico-de-massachusetts-estudia-evolucion-de-bancolombia?utm_source=chatgpt.com "El MIT toma la transformación de Bancolombia como caso de estudio"
-[3]: https://engineering.rappi.com/tagged/leadership?utm_source=chatgpt.com "Rappi Tech - engineering.rappi.com"
-[4]: https://medium.com/%40josephrobertburns/the-4-culture-rules-of-rappi-s-search-and-personalization-team-7a1e139564df?utm_source=chatgpt.com "The 4 ‘culture rules’ of Rappi’s Search and Personalization team"
-[5]: https://building.nubank.com/engineering-behind-the-scenes-innovation-nubank/?utm_source=chatgpt.com "Inside Nubank’s engineering: Discover the technical backstage powering ..."
-[6]: https://www.globant.com/news/creating-competitive-advantage-digital-era-agile-pods?utm_source=chatgpt.com "Creating Competitive Advantage in the Digital Era with ‘Agile Pods’"
-[7]: https://investors.globant.com/2020-06-10-Augmented-Collaboration-Globant-Presents-a-New-Way-to-Boost-Innovation-and-Productivity-in-the-Post-Pandemic-Era?utm_source=chatgpt.com "Augmented Collaboration: Globant Presents a New Way to Boost Innovation ..."

@@ -18,20 +18,35 @@ Construir una empresa que genere confianza y reduzca el miedo en las relaciones 
 1. **Cumplimiento normativo sin fricción:** contratos laborales/mercantiles y procesos formales donde la ley lo exige (nómina, seguridad social, facturación), mientras el día a día del trabajo se organiza por acuerdos de célula.
 2. **Roles temporales y decisión distribuida:** responsables de resultado (no de cargo). Decisiones por consentimiento informado dentro de cada célula; se documentan supuestos, riesgos y dueños.
 3. **Trazabilidad de compromisos:** cada tarea relevante tiene “definición de éxito” acordada y medible (ej.: tiempo de ciclo, errores admitidos, satisfacción del cliente interno/externo).
-4. **Criterios de avance a mayor autonomía:** una célula pasa a menos supervisión cuando logra **3 sprints** consecutivos cumpliendo objetivos (±10 % de desvío), incidentes críticos = 0 y satisfacción del cliente ≥ 4/5.
+4. **Criterios de avance a mayor autonomía:** una célula pasa a menos supervisión cuando logra **3 sprints** consecutivos cumpliendo objetivos (±10 % de desvío), incidentes críticos = 0 y satisfacción del cliente ≥ 4/5. 
+    - **3 Sprints Consecutivos:** Este es un buen tiempo de referencia para evaluar la consistencia operativa de una célula, y generar dinámicas de trabajo estables.
+    - **±10% de desvío**: Margen que permite flexibilidad sin comprometer predictibilidad del cliente
+    - **Satisfacción ≥ 4/5**: Umbral que asegura calidad percibida antes de otorgar mayor autonomía
 5. **Compensación acordada por equipo:** incrementos y bonos atados a indicadores de impacto definidos por la célula (ahorro generado, NPS del cliente, cumplimiento de hitos), validados por un revisor cruzado de otra célula.
 6. **Rituales cortos y útiles:** planificación quincenal, revisiones post-hito con acciones correctivas obligatorias y tableros visibles para cliente y equipo.
 
-### 1.4 Fundamento y ejemplos 
+### 1.4 Filosofoía de seguimiento
 
-- **Bancolombia / Nequi (Colombia):** Documentado por MIT CISR como caso de transformación digital con nuevas formas de trabajo más ágiles y orientadas a equipos; Nequi se usó para aprender y luego escalar prácticas al banco matriz. Esto muestra que, en el contexto colombiano, la descentralización por equipos es viable si hay métricas, plataformas y gobierno claro. ([cisr.mit.edu][1], [Bancolombia][2])
-- **Rappi (Colombia):** Su blog de ingeniería describe organización por *squads* y liderazgo distribuido en unidades de producto, con énfasis en autonomía y reglas de cultura de equipo. Es un referente local de células con responsabilidad sobre resultados. ([Rappi Tech][3], [Medium][4])
-- **Nubank (LatAm):** Publica prácticas internas de ingeniería y trabajo por equipos autónomos (*squads/tribes*), enfocadas en iteración rápida y mejora continua; útil como benchmark regional de trabajo por células orientadas a producto. ([Building Nubank][5])
-- **Globant (LatAm):** Modelo de “Agile Pods” (células auto-organizadas con objetivos y marco operativo propio) usado en servicios y productos digitales; evidencia de que las células con autonomía y métricas claras escalan sin sobrecarga jerárquica. ([Globant][6], [Globant Investor Relations][7])
+Los mecanísmos de trazabilidad y medición sirven para:
+- **Aprendizaje colectivo**: identificar qué funciona y qué mejorar
+- **Transparencia con clientes**: demostrar valor y progreso tangible  
+- **Auto-corrección**: que los equipos detecten desviaciones antes que se vuelvan problemas
+- **Desarrollo de autonomía**: crear confianza gradual basada en resultados demostrables
+
+**No son mecanismos de control jerárquico** sino herramientas para que los equipos se autogestionen con información clara.
+
+### 1.5 Fundamento y ejemplos 
+
+- **Bancolombia / Nequi (Colombia):** Documentado por MIT CISR como caso de transformación digital con nuevas formas de trabajo más ágiles y orientadas a equipos; Nequi se usó para aprender y luego escalar prácticas al banco matriz. Esto muestra que, en el contexto colombiano, la descentralización por equipos es viable si hay métricas, plataformas y gobierno claro. (
+[Bancolombia: Coordinating Multiple Digital Transformations - MIT CISR](https://cisr.mit.edu/publication/MIT_CISRwp455_Bancolombia_DiazBaqueroWoerner?utm_source=chatgpt.com), [El MIT toma la transformación de Bancolombia como caso de estudio](https://www.bancolombia.com/acerca-de/sala-prensa/noticias/resultados-corporativos/instituto-tecnologico-de-massachusetts-estudia-evolucion-de-bancolombia?utm_source=chatgpt.com)).
+- **Rappi (Colombia):** Su blog de ingeniería describe organización por *squads* y liderazgo distribuido en unidades de producto, con énfasis en autonomía y reglas de cultura de equipo. Es un referente local de células con responsabilidad sobre resultados. ([Rappi Tech - engineering.rappi.com](https://engineering.rappi.com/tagged/leadership?utm_source=chatgpt.com), [The 4 ‘culture rules’ of Rappi’s Search and Personalization team](https://medium.com/%40josephrobertburns/the-4-culture-rules-of-rappi-s-search-and-personalization-team-7a1e139564df?utm_source=chatgpt.com))
+- **Nubank (LatAm):** Publica prácticas internas de ingeniería y trabajo por equipos autónomos (*squads/tribes*), enfocadas en iteración rápida y mejora continua; útil como benchmark regional de trabajo por células orientadas a producto. ([Inside Nubank’s engineering: Discover the technical backstage powering ...](https://building.nubank.com/engineering-behind-the-scenes-innovation-nubank/?utm_source=chatgpt.com))
+- **Globant (LatAm):** Modelo de “Agile Pods” (células auto-organizadas con objetivos y marco operativo propio) usado en servicios y productos digitales; evidencia de que las células con autonomía y métricas claras escalan sin sobrecarga jerárquica. ([Creating Competitive Advantage in the Digital Era with ‘Agile Pods’](https://www.globant.com/news/creating-competitive-advantage-digital-era-agile-pods?utm_source=chatgpt.com), [Augmented Collaboration: Globant Presents a New Way to Boost Innovation ...](https://investors.globant.com/2020-06-10-Augmented-Collaboration-Globant-Presents-a-New-Way-to-Boost-Innovation-and-Productivity-in-the-Post-Pandemic-Era?utm_source=chatgpt.com))
 
 > **Nota:** estos ejemplos sirven como *referencias prácticas* de organización por células y decisión distribuida en Colombia/LatAm; no son modelos “copiar-pegar”. Se usan para sustentar que la combinación de cumplimiento formal + equipos autónomos funciona en nuestra región.
 
-### 1.5 Justificación
+
+### 1.6 Justificación
 
 - **Ajuste cultural en Colombia:** pasar de control vertical a responsabilidad por resultados requiere transición. Empezar con lo legal-formal intacto reduce fricción y riesgos, mientras se mueven las decisiones al nivel del equipo. (Bancolombia/Nequi muestran esta senda gradual). ([cisr.mit.edu][1])
 - **Menos sobrecarga gerencial, más velocidad:** células con métricas y límites de autonomía bien definidos disminuyen cuellos de botella y tiempos de entrega (casos Rappi/Nubank/Globant). ([Rappi Tech][3], [Building Nubank][5], [Globant][6])
@@ -53,34 +68,34 @@ Los precios no se fijan de manera arbitraria:
 
 ### 2.2 Ejemplo de cálculo para un proceso P1
 
-1. **Horas hombre**:
+a. **Horas hombre**:
 
-   - 8 horas de analista/desarrollador @ \$80 000 COP/h = \$640 000 COP
-   - 2 horas de revisión/calidad @ \$100 000 COP/h = \$200 000 COP
-     **Subtotal**: \$840 000 COP
+   - 8 horas de analista/desarrollador @ 80 000 COP/h = 640 000 COP
+   - 2 horas de revisión/calidad @ 100 000 COP/h = 200 000 COP
+     **Subtotal**: 840 000 COP
 
-2. **Infraestructura** (hosting + APIs):
+b. **Infraestructura** (hosting + APIs):
 
-   - Servidor básico en nube local: \$100 000 COP/mes → prorrateado al proyecto: \$25 000 COP
-   - Herramientas Open Source: \$0 (instalación incluida)
+   - Servidor básico en nube local: 100 000 COP/mes → prorrateado al proyecto: 25 000 COP
+   - Herramientas Open Source: 0 COP (instalación incluida)
 
-3. **Costos indirectos** (20 % del subtotal): \$168 000 COP
+c. **Costos indirectos** (20 % del subtotal): 168 000 COP
 
-4. **Margen de sostenibilidad** (30 % sobre total parcial): \$303 900 COP
+4. **Margen de sostenibilidad** (30 % sobre total parcial): 309 900 COP
 
-**Precio final** ≈ **\$1 336 000 COP** (redondeado a \$1,35 M COP por proceso).
+**Precio final** ≈ **1 342 900 COP** (redondeado a 1,35 M COP por proceso).
 
 
 ### 2.3 Tabla de referencia por nivel
 
 | Nivel                                   | Descripción del proceso                                                                                                                                     | Complejidad técnica | Horas estimadas (analista/desarrollo + revisión) | Costos de infraestructura\*                                                            | Margen base | Precio estimado\*\* |
 | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------ | -------------------------------------------------------------------------------------- | ----------- | ------------------- |
-| **P1 – Automatización simple sin IA**   | Procesos repetitivos y 100 % predecibles, basados en reglas fijas y datos claros. Ej.: mover archivos, notificaciones automáticas, reportes programados.    | Baja                | 10–15 h                                          | Bajo (\$25–50k COP) – hosting básico o VPS compartido                                  | 30 %        | \$1,3–1,6 M COP     |
-| **P2 – Basada en reglas**               | Flujos con múltiples pasos y decisiones binarias o condicionales. Ej.: aprobaciones internas, gestión de inventario con reglas fijas.                       | Baja–Media          | 15–20 h                                          | Medio (\$50–100k COP) – servidor dedicado ligero o BPM básico                          | 30 %        | \$1,8–2,3 M COP     |
-| **P3 – Reconocimiento de patrones**     | Uso de IA básica o algoritmos ML simples para clasificar, detectar o predecir con datos históricos. Ej.: categorización de documentos, detección de fraude. | Media               | 20–30 h                                          | Medio–Alto (\$100–150k COP) – nube con GPU ligera o APIs de terceros                   | 30 %        | \$2,6–3,5 M COP     |
-| **P4 – IA asistida**                    | IA avanzada que interpreta contexto o genera contenido siguiendo estructuras definidas. Ej.: análisis de contratos, moderación de contenido.                | Media–Alta          | 30–45 h                                          | Alto (\$150–250k COP) – nube con GPU media, licencias IA premium                       | 35 %        | \$4,0–5,5 M COP     |
-| **P5 – Colaboración humano–IA**         | IA ejecuta \~80 % del proceso, humanos manejan excepciones y decisiones críticas. Ej.: diagnóstico médico preliminar, investigación legal.                  | Alta                | 40–60 h                                          | Alto (\$200–300k COP) – infraestructura redundante, IA avanzada + control humano       | 35 %        | \$5,5–7,5 M COP     |
-| **P6 – Trabajo humano asistido por IA** | Humano lidera, IA apoya en análisis, investigación y borradores. Ej.: estrategia empresarial, diseño creativo, negociaciones complejas.                     | Muy alta            | 60–90 h                                          | Muy alto (> \$300k COP) – IA especializada, integración con sistemas críticos          | 35 %+       | Bajo cotización     |
+| **P1 – Automatización simple sin IA**   | Procesos repetitivos y 100 % predecibles, basados en reglas fijas y datos claros. Ej.: mover archivos, notificaciones automáticas, reportes programados.    | Baja                | 10–15 h                                          | Bajo (25–50 k COP) – hosting básico o VPS compartido                                  | 30 %        | 1,3–1,6 M COP     |
+| **P2 – Basada en reglas**               | Flujos con múltiples pasos y decisiones binarias o condicionales. Ej.: aprobaciones internas, gestión de inventario con reglas fijas.                       | Baja–Media          | 15–20 h                                          | Medio (50–100 k COP) – servidor dedicado ligero o BPM básico                          | 30 %        | 1,8–2,3 M COP     |
+| **P3 – Reconocimiento de patrones**     | Uso de IA básica o algoritmos ML simples para clasificar, detectar o predecir con datos históricos. Ej.: categorización de documentos, detección de fraude. | Media               | 20–30 h                                          | Medio–Alto (100–150 k COP) – nube con GPU ligera o APIs de terceros                   | 30 %        | 2,6–3,5 M COP     |
+| **P4 – IA asistida**                    | IA avanzada que interpreta contexto o genera contenido siguiendo estructuras definidas. Ej.: análisis de contratos, moderación de contenido.                | Media–Alta          | 30–45 h                                          | Alto (150–250 k COP) – nube con GPU media, licencias IA premium                       | 35 %        | 4,0–5,5 M COP     |
+| **P5 – Colaboración humano–IA**         | IA ejecuta \~80 % del proceso, humanos manejan excepciones y decisiones críticas. Ej.: diagnóstico médico preliminar, investigación legal.                  | Alta                | 40–60 h                                          | Alto (200–300 k COP) – infraestructura redundante, IA avanzada + control humano       | 35 %        | 5,5–7,5 M COP     |
+| **P6 – Trabajo humano asistido por IA** | Humano lidera, IA apoya en análisis, investigación y borradores. Ej.: estrategia empresarial, diseño creativo, negociaciones complejas.                     | Muy alta            | 60–90 h                                          | Muy alto (> 300 k COP) – IA especializada, integración con sistemas críticos          | 35 %+       | Bajo cotización     |
 | **P7 – Exclusivamente humano**          | No se puede automatizar por riesgo, creatividad o regulación. Ej.: manejo de crisis, liderazgo, decisiones éticas.                                          | Máxima              | Variable (dependiendo del caso)                  | Variable – puede incluir viajes, reuniones presenciales, infraestructura especializada | 35 %+       | Bajo cotización     |
 
 \*Costos de infraestructura incluyen hosting, licencias, APIs, entornos de prueba y almacenamiento seguro, calculados para el uso estimado del proyecto.
@@ -94,9 +109,9 @@ Los precios no se fijan de manera arbitraria:
    - Cubre levantamiento de información, clasificación de procesos y propuesta de automatización.
    - Cálculo:
 
-     - 15 h consultor senior @ \$120 000 COP/h = \$1,8 M
-     - 5 h asistente @ \$60 000 COP/h = \$300 000 COP
-     - Indirectos (20 %) + margen (30 %) → total ≈ \$3 M COP.
+     - 15 h consultor senior @ 120 000 COP/h = 1,8 M COP
+     - 5 h asistente @ 60 000 COP/h = 300 000 COP
+     - Indirectos (20 %) + margen (30 %) → total ≈ 3 M COP.
 
 2. **Implementación por fases**
 
@@ -106,7 +121,7 @@ Los precios no se fijan de manera arbitraria:
 3. **Acompañamiento mensual**
 
    - Cálculo: horas de soporte estimadas × tarifa técnica + % indirectos + margen.
-   - Ejemplo plan básico: 8 h soporte/mes @ \$80 000 = \$640 000 → + indirectos (20 %) + margen (30 %) = \$ 960 000 COP/mes.
+   - Ejemplo plan básico: 8 h soporte/mes @ 80 000 COP= 640 000 COP→ + indirectos (20 %) + margen (30 %) =  960 000 COP/mes.
 
 4. **Ahorro compartido**
 
@@ -129,21 +144,21 @@ Los precios no se fijan de manera arbitraria:
 
 ### 3.1 Principios generales
 
-- **Transparencia progresiva**: al inicio no se revelan cifras exactas de salarios entre equipos, pero sí las bandas salariales por nivel de experiencia y rol. Esto evita comparaciones descontextualizadas y mantiene un piso común de equidad.
+- **Transparencia progresiva**: al inicio no se revelan cifras exactas de salarios entre equipos, pero sí las bandas salariales por nivel de experiencia y rol. Esto evita comparaciones descontextualizadas y mantiene un piso común de equidad. La idea es que esta sea una medida temporal, mientras se consolida la cultura de confianza y autogestión. Será necesario revisar periódicamente la viabilidad de esta medida tanto dentro de las dinámicas internas como en el contexto nacional.
 - **Autonomía presupuestal por equipo**: cada célula administra una parte de sus recursos para incentivos, formación y mejoras de su entorno de trabajo.
 - **Reinversión obligatoria**: el 30 % del ingreso total se destina directamente a la empresa para sostener innovación, formación y gastos comunes de infraestructura.
 - **Equidad ligada a experiencia**: perfiles con mayor nivel técnico o experiencia reciben remuneraciones acordes a bandas predefinidas y aprobadas por consenso inter–equipos.
 
 ### 3.2 Distribución de un ingreso típico por proyecto
 
-Ejemplo: Proyecto P3 con valor de **\$3 000 000 COP**.
+Ejemplo: Proyecto P3 con valor de **3 000 000 COP**.
 
 | Destino                              | % del ingreso | Monto estimado  | Descripción                                                                                                                  |
 | ------------------------------------ | ------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| **Pago directo al equipo ejecutor**  | **40 %**      | \$1 200 000 COP | Repartido según horas y roles del proyecto (bandas salariales). Incluye pago base y bonificaciones internas.                 |
-| **Fondo corporativo de reinversión** | 25 %          | \$750 000 COP   | Gastos de innovación, desarrollo de herramientas, infraestructura de hosting, licencias estratégicas, administración mínima. |
-| **Costos directos del proyecto**     | 20 %          | \$600 000 COP   | Horas técnicas adicionales, pruebas, soporte, costos de nube y APIs.                                                         |
-| **Margen operativo neto**            | 15 %          | \$450 000 COP   | Utilidad que queda para la empresa después de cubrir todos los costos, destinada a reservas o expansión.                     |
+| **Pago directo al equipo ejecutor**  | **40 %**      | 1 200 000 COP | Repartido según horas y roles del proyecto (bandas salariales). Incluye pago base y bonificaciones internas.                 |
+| **Fondo corporativo de reinversión** | 25 %          | 750 000 COP   | Gastos de innovación, desarrollo de herramientas, infraestructura de hosting, licencias estratégicas, administración mínima. |
+| **Costos directos del proyecto**     | 20 %          | 600 000 COP   | Horas técnicas adicionales, pruebas, soporte, costos de nube y APIs.                                                         |
+| **Margen operativo neto**            | 15 %          | 450 000 COP   | Utilidad que queda para la empresa después de cubrir todos los costos, destinada a reservas o expansión.                     |
 
 > Estos porcentajes son referencia; cada tipo de proyecto (P1 a P7) ajusta el % de costos directos según complejidad y nivel de infraestructura.
 
