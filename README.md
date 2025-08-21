@@ -203,3 +203,227 @@ La empresa organiza, con parte del fondo corporativo:
 - **Fomenta autogestión real**: al darle al equipo autonomía sobre una parte del presupuesto, se les entrena en manejo de recursos, priorización y negociación interna.
 - **Reinversión asegurada**: el fondo corporativo garantiza que la empresa crezca y se mantenga competitiva, incluso si algunos proyectos dejan bajo margen.
 - **Desarrollo sostenible del talento**: formación continua no depende de la buena voluntad, sino que está presupuestada y protegida.
+
+
+# 4. Mecanismos de Incentivos y Reparto de Utilidades
+
+## 4.1 Principios
+
+- **Equidad colectiva**: no hay bonos individuales. El salario base se autodefine dentro de **bandas consensuadas** y calibradas entre pares.
+- **Transparencia del cálculo**: reglas simples, fórmulas claras y definiciones previas de qué es “utilidad”.
+- **Desarrollo integral**: incentivos monetarios + no monetarios (formación, flexibilidad, proyectos emprendedores).
+
+
+## 4.2 Evaluación y retroalimentación
+
+- Cada persona documenta trimestralmente: **qué hice bien / qué hice mal / qué haría distinto / por qué**.
+- Se guarda de forma segura y se usa (opcionalmente) para planes de aprendizaje personalizados con IA.
+- Las conversaciones de feedback son **entre pares**, con acuerdos de mejora por escrito.
+- Base comparativa: organizaciones sin jefes formales han usado **acuerdos de responsabilidades escritos entre colegas** para alinear expectativas (p. ej., el “CLOU” de Morning Star). ([Self-Management Pioneers Series: The Morning Star ...](https://medium.com/dartagnanjournal/self-management-pioneers-series-the-morning-star-company-065cabf76648?utm_source=chatgpt.com), [Morning Star's Self Management Success Story: No…](https://www.corporate-rebels.com/blog/morning-star?utm_source=chatgpt.com), [Morning Star](https://reinventingorganizationswiki.com/en/cases/morning-star/?utm_source=chatgpt.com))
+
+#### 4.2.1 Evolución hacia transparencia salarial completa
+
+**Fase actual (meses 1-12)**: Bandas salariales visibles por rol y experiencia, montos individuales privados:
+- Junior (0-2 años): 3.5-4.5 M COP
+- Semi-senior (2-4 años): 4.5-6.0 M COP  
+- Senior (4+ años): 6.0-8.5 M COP
+
+**Proceso de consenso gradual**:
+- **Trimestre 4**: Cada célula discute y propone ajustes a las bandas basándose en competencias desarrolladas y referentes de mercado.
+- **Año 2**: Salarios individuales se vuelven visibles dentro de cada célula.
+- **Año 3**: Transparencia completa si ≥80% del equipo lo aprueba en consulta anónima.
+
+**Criterio de avance**: Solo se progresa a la siguiente fase si no hay conflictos graves relacionados con inequidad salarial en los 6 meses anteriores.
+
+**Relación con el reparto de utilidades**: La transparencia salarial es independiente de la BAR, que se distribuye igualitariamente entre toda la empresa. Las diferencias salariales reflejan experiencia y responsabilidades, mientras que el reparto de utilidades refuerza la propiedad colectiva del éxito empresarial.
+
+## 4.3 Marco legal mínimo (Colombia)
+
+- **Prima legal de servicios**: obligación separada del reparto de utilidades; equivale a 30 días de salario por año, en dos pagos (junio y diciembre). Debe cumplirse siempre. ([Código Sustantivo del Trabajo Artículo 306. De la prima de ...](https://leyes.co/codigo_sustantivo_del_trabajo/306.htm?utm_source=chatgpt.com), [Leyes desde 1992 - Vigencia expresa y control de ...](https://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo_pr010.html?utm_source=chatgpt.com), [Prima de Servicios](https://www.mintrabajo.gov.co/documents/20147/58601565/11EI2017120000000009993%2BPrima%2Bde%2Bservicios.pdf/ec26f005-d7ff-16dd-ccf1-4147864e61c8?version=1.0&utm_source=chatgpt.com))
+- **Participación en utilidades**: es **voluntaria** en Colombia; está permitida y el trabajador nunca asume pérdidas. ([Código Sustantivo del Trabajo Artículo 28. Utilidades y perdidas](https://leyes.co/codigo_sustantivo_del_trabajo/28.htm?utm_source=chatgpt.com), [Leyes desde 1992 - Vigencia expresa y control de ...](https://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html?utm_source=chatgpt.com))
+
+> Nota: El esquema de reparto que sigue es **adicional** a la prima legal.
+
+
+## 4.4 Distribución de utilidades: fórmula y justificación
+
+**Porcentaje base propuesto: 30 % de la utilidad neta anual** (después de impuestos).
+**Razonamiento:**
+
+1. **Rango empírico razonable**
+
+   - Casos reales de reparto muestran bandas amplias; por ejemplo, **Semco** acordó con trabajadores repartir utilidades por negociación democrática (en distintos momentos, 25 % e incluso **39 %** de utilidad neta) —lo importante es que el porcentaje sea explícito y entendido. ([Maverick - Ricardo Semler](https://omdventures.com/essays/maverick?utm_source=chatgpt.com), [Ricardo Semler and Semco S.A. - Salud y Gestión](https://www.saludygestion.com/archives/Ricardo%20Semler%20%26%20Semco%2C%20Thunderbird.pdf?utm_source=chatgpt.com), [SemCo: A Participative Approach to Pay](https://www.rebelplaybook.com/bonus-plays/a-participative-approach-to-pay-semco?utm_source=chatgpt.com))
+   - En cooperativas industriales (p. ej., **Mondragón**), existe una reserva legal a fondos y educación (10–20 % o más) y luego una porción relevante va a las personas (a cuentas individuales o efectivo). Nuestro 30 % en efectivo al equipo **queda dentro de esa lógica de compartir excedentes** y mantener reservas. ([Cooperation for Economic Success: The Mondragon Case](https://www.analyse-und-kritik.net/Dateien/5696575a8cb2e_ak_flecha_santa-cruz_2011.pdf?utm_source=chatgpt.com), [The Mondragon Cooperative Movement](https://www.ellerman.org/Davids-Stuff/The-Firm/Mondragon-HBS-Case.pdf?utm_source=chatgpt.com))
+
+2. **Evidencia de efecto económico**
+
+   - Metaestudios y trabajos académicos hallan asociación positiva entre reparto de utilidades y productividad/rentabilidad. Por tanto, asignar un porcentaje significativo **no es caridad**, es una inversión en desempeño. ([does profit sharing affect productivity?.](https://www.nber.org/system/files/working_papers/w4542/w4542.pdf?utm_source=chatgpt.com), [Is Profit Sharing Productive? A Meta-Regression Analysis](https://www.researchwithrutgers.com/en/publications/is-profit-sharing-productive-a-meta-regression-analysis?utm_source=chatgpt.com))
+
+3. **Salud financiera**
+
+   - Un **30 %** permite repartir un monto significativo y, a la vez, conservar caja para reservas y crecimiento (ver guardas abajo). Si la utilidad es baja, el 30 % también lo será: el esquema **se autoajusta**.
+
+### Porcentaje y cálculo base
+
+- **25% de utilidad neta** para la BAR (Bolsa Anual a Repartir entre el equipo)
+- **5% adicional de utilidad neta** para el Fondo de Impacto Comunitario
+- **Total compartido: 30% de utilidad neta**
+
+**Fórmula operativa**:
+- BAR = 0,25 × UN
+- FIC = 0,05 × UN
+
+### Distribución de la BAR: exclusivamente igualitaria entre toda la empresa
+
+La BAR se distribuye en **partes iguales** entre **todos los miembros de la empresa**, ajustada únicamente por tiempo de vinculación:
+
+- **≥6 meses en la empresa**: 100% de la participación
+- **3-6 meses en la empresa**: 50% de la participación  
+- **<3 meses en la empresa**: 0% de la participación
+
+**Sin diferenciación por rol, célula o desempeño**: Todas las personas elegibles reciben exactamente la misma cantidad, independientemente de su rol, la célula a la que pertenezcan o las métricas de desempeño alcanzadas.
+
+**Justificación del reparto igualitario**: 
+- Las métricas de desempeño de células son herramientas de aprendizaje y mejora continua, no de evaluación para distribución de utilidades
+- El reparto igualitario refuerza la colaboración y evita que las personas optimicen métricas individuales en detrimento del resultado colectivo
+- La diferenciación por contribución ya está reflejada en las bandas salariales base consensuadas
+- Fortalece el sentido de propiedad colectiva sobre los resultados de la empresa
+
+### Reglas de estabilidad (aplican solo a la BAR):
+
+- Si la **reserva de liquidez** < 3 meses de gastos fijos, la BAR puede ajustarse a **0,20 × UN** hasta alcanzar esa cobertura
+- Si hay inversiones aprobadas > 15% de los ingresos anuales, la BAR puede situarse entre **0,20–0,25 × UN** ese año
+- Estos ajustes se **acuerdan por consejo** y se documentan
+
+
+## 4.5 ¿Cómo refleja tanto la contribución individual como el éxito colectivo?
+
+- **Salario base autodeterminado** dentro de bandas + **reparto igualitario** de utilidades → la diferencia individual se reconoce en el sueldo (acordado y transparente por bandas), mientras el **éxito extra** se reparte por igual para mantener cohesión.
+- **Criterios de elegibilidad** (no de monto): permanencia mínima, no tener sanciones éticas graves, haber participado en las sesiones de reflexión y aprendizaje.
+
+
+## 4.6 Incentivos no monetarios (con propósito y límites claros)
+
+- **Flexibilidad** acordada con el equipo.
+- **Formación**: presupuesto individual anual con **proceso de consejo** (al menos 2–3 recomendaciones de colegas o alguien con experiencia).
+- **Emprendimientos internos**: si una idea prospera, se puede cofinanciar y **participar en los beneficios** bajo un acuerdo de propiedad claro (sin perder el reparto de utilidades general).
+
+
+## 4.7 Ahorro compartido con clientes (fórmula auditable)
+
+**Objetivo**: alinear incentivos sin inflar el precio inicial.
+
+1. **Definir línea base (LB)** con el cliente: costo/tiempo *antes* del proyecto (p. ej., costo mensual de proceso).
+2. **Medir costo posterior (CP)**, con el mismo método.
+3. **Ahorro bruto (AB)** = LB − CP.
+4. **Ahorro neto (AN)** = AB − costos adicionales atribuibles (licencias nuevas, horas del cliente, etc.).
+5. **Participación**: **10 % del AN** por **6–12 meses**; **tope**: **1,5×** la tarifa de implementación.
+
+   - **Por qué 10 %**: suficiente para motivar sin penalizar al cliente; el tope protege la relación y da previsibilidad a caja.
+   - Todo se pacta en anexo con **método de medición** y **fuentes de datos**.
+
+
+## 4.8 Licencias y asociaciones (valor sostenido para ambas partes)
+
+- Si se co–desarrolla una solución replicable, se firma:
+
+  - **Royalty** al cliente por uso comercial (p. ej., **5–8 % de ingresos netos** de esa solución) por **24–36 meses** o hasta recuperar su aporte.
+  - **Obligaciones compartidas**: mantenimiento, soporte de L1/L2, hoja de ruta.
+- Lógica: el royalty reconoce el **riesgo inicial** del cliente y fomenta que ambas partes **impulsen adopción** sin frenar la operación con cargas excesivas.
+
+
+## 4.9 Apoyo a quienes tengan dificultades con la autogestión
+
+- **Mentoría y coaching** con metas de habilidades (no monetarias).
+- **Plan de aprendizaje** ligado a las reflexiones trimestrales.
+- **Acompañamiento en decisiones** usando el **proceso de consejo**; no se condiciona el reparto de utilidades al “nivel de autogestión”, para evitar castigos encubiertos.
+
+## 4.10 ¿Por qué este esquema es motivador y justo?
+
+- **Cohesiona**: el reparto igualitario reduce la competencia interna por bonos y orienta a resultados compartidos.
+- **Es defendible**: el **30 %** se sitúa en un corredor observable en prácticas reales (casos Semco, cooperativas) y en la literatura sobre productividad asociada al reparto. ([Maverick - Ricardo Semler](https://omdventures.com/essays/maverick?utm_source=chatgpt.com), [Ricardo Semler and Semco S.A. - Salud y Gestión](https://www.saludygestion.com/archives/Ricardo%20Semler%20%26%20Semco%2C%20Thunderbird.pdf?utm_source=chatgpt.com), [Cooperation for Economic Success: The Mondragon Case](https://www.analyse-und-kritik.net/Dateien/5696575a8cb2e_ak_flecha_santa-cruz_2011.pdf?utm_source=chatgpt.com), [does profit sharing affect productivity?.](https://www.nber.org/system/files/working_papers/w4542/w4542.pdf?utm_source=chatgpt.com), [Is Profit Sharing Productive? A Meta-Regression Analysis](https://www.researchwithrutgers.com/en/publications/is-profit-sharing-productive-a-meta-regression-analysis?utm_source=chatgpt.com))
+- **Cumple ley**: respeta la prima legal y mantiene el reparto como beneficio voluntario adicional. ([Código Sustantivo del Trabajo Artículo 306. De la prima de ...](https://leyes.co/codigo_sustantivo_del_trabajo/306.htm?utm_source=chatgpt.com))
+
+## 4.11 Contribución al propósito evolutivo comunitario
+
+**Asignación independiente**: El 5% de la utilidad neta se destina al "Fondo de Impacto Comunitario" (FIC) como compromiso separado e independiente de la BAR que se reparte entre todo el equipo.
+
+**Naturaleza del modelo**: Este es un **marco flexible** cuyo objetivo principal es mantener **consciencia constante** sobre la importancia de aportar a la comunidad desde nuestras capacidades específicas. No es una obligación rígida sino una disciplina de propósito.
+
+**Gestión del FIC**:
+- **Decisión por consejo ampliado**: incluye equipo interno + 2 representantes de organizaciones beneficiarias
+- **Revisión anual**: evaluar efectividad y ajustar enfoque según aprendizajes
+
+### Organización interna para ejecutar iniciativas comunitarias
+
+**Modalidades de participación**:
+
+1. **Células temporales de impacto**: Se pueden formar equipos específicos y temporales para proyectos comunitarios, siguiendo la misma lógica de células por proyecto del modelo general.
+
+2. **Participación voluntaria de células existentes**: Las células en curso pueden dedicar tiempo acordado a iniciativas comunitarias como parte de su carga de trabajo.
+
+3. **Equipos híbridos**: Combinación de personas de diferentes células que se unen voluntariamente para proyectos específicos de impacto.
+
+**Distribución del FIC entre equipos ejecutores**:
+- **60% para ejecución directa**: Se distribuye entre las células/equipos que ejecutan las iniciativas, proporcionalmente a las horas comprometidas y la complejidad del proyecto
+- **25% para coordinación y seguimiento**: Gestión del programa, documentación y relaciones con beneficiarios
+- **15% para contingencias y aprendizaje**: Costos no previstos, capacitación de equipos y mejora de metodologías
+
+**Remuneración del trabajo comunitario**:
+- Las horas dedicadas a proyectos comunitarios se remuneran con las tarifas internas normales (cubiertas por el FIC)
+- **No es trabajo voluntario no remunerado**: Se valora igual que cualquier otro proyecto de la empresa
+- Las personas pueden elegir no participar sin penalizaciones en su BAR o evaluaciones
+
+**Asignación de proyectos**:
+- **Proceso abierto**: Cada trimestre se publican las oportunidades de proyectos comunitarios disponibles
+- **Autoselección con consejo**: Las personas/células interesadas se postulan y reciben consejo sobre viabilidad y ajuste
+- **Criterio de asignación**: Combinación de interés personal, disponibilidad de tiempo y competencias técnicas necesarias
+
+**Ejemplo operativo**: 
+Si el FIC anual es de 20M COP, y se decide implementar automatización en una fundación (proyecto estimado en 15M COP), se forma una célula temporal de 2-3 personas por 2 meses. Sus salarios durante ese período salen del FIC, no afecta la BAR general, y al terminar se disuelve la célula o migra a otros proyectos.
+
+**Iniciativas específicas** (proporciones orientativas):
+- **Capacitación técnica profunda** (60% del FIC): Cursos completos de 3-6 meses en automatización para personas de bajos ingresos, incluyendo acompañamiento laboral
+- **Automatización pro-bono** (30% del FIC): Implementar 1-2 procesos automatizados por año en organizaciones sociales, priorizando impacto operativo medible
+- **Herramientas abiertas** (10% del FIC): Liberar bajo licencias abiertas soluciones desarrolladas que puedan replicarse en contextos similares
+
+**Criterios de evaluación**:
+- **Capacitación**: Al menos 5 personas por año completando programa técnico + evidencia de mejora laboral (empleo o emprendimiento) en 12 meses siguientes
+- **Automatización**: Reducción medible del 30%+ en tiempo/costo de procesos en organizaciones beneficiarias
+- **Herramientas abiertas**: Al menos 3 descargas/implementaciones documentadas por cada herramienta liberada
+
+**Documentación y aprendizaje continuo**: 
+Todas las iniciativas se documentan sistemáticamente incluyendo: recursos invertidos, metodologías utilizadas, resultados obtenidos y lecciones aprendidas. Esta documentación se revisa trimestralmente para **generar progreso acumulativo** y evitar que sean solo iniciativas esporádicas desconectadas. El objetivo es desarrollar expertise organizacional en impacto comunitario a través de tecnología.
+
+**Razón del 5%**: Con ingresos proyectados, esto representa 15-25M COP anuales, suficiente para generar impacto real pero manejable operativamente, y se mantiene como compromiso independiente que no afecta la distribución igualitaria de la BAR entre todo el equipo.
+
+## 4.12 Casos límite y resolución de conflictos en el reparto igualitario
+
+### Escenarios de elegibilidad para la BAR:
+
+**Caso A**: Persona con bajo desempeño individual pero que cumple requisitos básicos
+- **Resolución**: Mantiene elegibilidad completa para BAR (reparto igualitario se respeta)
+- **Manejo del desempeño**: Se aborda via mentoría, plan de aprendizaje y proceso de consejo, pero no afecta el reparto de utilidades
+- **Fundamento**: Las utilidades pertenecen a toda la empresa; el desarrollo de capacidades es responsabilidad colectiva
+
+**Caso B**: Célula con métricas deficientes pero individuos participativos
+- **Resolución**: Todos los miembros mantienen elegibilidad completa para BAR
+- **Manejo de células**: Se revisan procesos, se ofrecen recursos adicionales, pero no se penaliza monetariamente a las personas
+- **Fundamento**: El éxito y los desafíos son colectivos; el reparto igualitario no se condiciona al desempeño de subgrupos
+
+**Caso C**: Conflictos éticos o incumplimiento grave
+- **Proceso**: Diálogo restaurativo con mediador externo antes de cualquier decisión sobre elegibilidad
+- **Criterios de exclusión de BAR**: Solo comportamientos que dañen gravemente la confianza colectiva (fraude, acoso sistemático, violación de confidencialidad con impacto)
+- **Período de exclusión**: Máximo 2 trimestres con plan de reintegración acordado
+- **Protección**: No se puede excluir por desacuerdos técnicos, diferencias de criterio o conflictos interpersonales menores
+
+**Caso D**: Licencias prolongadas o situaciones especiales
+- **Maternidad/paternidad, incapacidades**: Mantienen elegibilidad completa según tiempo de vinculación
+- **Licencias no remuneradas > 3 meses**: Elegibilidad proporcional al tiempo efectivo trabajado en el año fiscal
+- **Trabajo comunitario (FIC)**: Tiempo dedicado a proyectos del FIC cuenta como tiempo trabajado para efectos de BAR
+
+### Proceso de apelación:
+Cualquier decisión sobre elegibilidad puede apelarse ante un panel de 3 personas elegidas por sorteo (excluida la persona afectada y personas en conflicto directo) con decisión vinculante en 15 días hábiles.
+
+### Principio rector:
+En caso de duda sobre elegibilidad, se favorece la **inclusión en el reparto igualitario**. La BAR es un derecho colectivo que solo se pierde por situaciones excepcionales y mediante proceso transparente con múltiples salvaguardas.
