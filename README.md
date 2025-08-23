@@ -302,7 +302,7 @@ La BAR se distribuye en **partes iguales** entre **todos los miembros de la empr
 - **Criterios de elegibilidad** (no de monto): permanencia mínima, no tener sanciones éticas graves, haber participado en las sesiones de reflexión y aprendizaje.
 
 
-## 4.6 Incentivos no monetarios (con propósito y límites claros)
+## 4.6 Incentivos no monetarios
 
 - **Flexibilidad** acordada con el equipo.
 - **Formación**: presupuesto individual anual con **proceso de consejo** (al menos 2–3 recomendaciones de colegas o alguien con experiencia).
@@ -422,7 +422,60 @@ Todas las iniciativas se documentan sistemáticamente incluyendo: recursos inver
 - **Trabajo comunitario (FIC)**: Tiempo dedicado a proyectos del FIC cuenta como tiempo trabajado para efectos de BAR
 
 ### Proceso de apelación:
+
 Cualquier decisión sobre elegibilidad puede apelarse ante un panel de 3 personas elegidas por sorteo (excluida la persona afectada y personas en conflicto directo) con decisión vinculante en 15 días hábiles.
 
 ### Principio rector:
+
 En caso de duda sobre elegibilidad, se favorece la **inclusión en el reparto igualitario**. La BAR es un derecho colectivo que solo se pierde por situaciones excepcionales y mediante proceso transparente con múltiples salvaguardas.
+
+# 5. Inversión en Talento e Innovación
+
+## 5.1 Inversión en aprendizaje autodirigido
+
+**Porcentaje destinado:** se propone asignar **2–3 % de los ingresos anuales** al desarrollo autodirigido de cada persona.
+**Justificación:**
+- La Association for Talent Development (ATD) reporta que las organizaciones exitosas invierten alrededor del **2,9 % de sus ingresos** en actividad de formación, una cifra que representa el nivel más alto en los últimos cinco años.([ATD Releases 2025 State of the Industry Report](https://www.td.org/content/press-release/atd-research-optimism-remains-strong-for-future-of-learning-in-organizations))
+- En Latinoamérica, **Deloitte (2023)** destaca que las empresas están migrando de programas tradicionales a modelos de aprendizaje autodirigido, por su mayor impacto en motivación y retorno.([Profiting From Learning: Do Firms' Investments ...](https://businesstrainingexperts.com/knowledge-center/training-roi/profiting-from-learning))
+- El rango —2–3 %— está en línea con el modelo financiero general (40 % para el equipo, 25 % fondo corporativo, 20 % costos directos, 15 % margen), y se financiaría desde el fondo corporativo sin comprometer liquidez.
+**Proceso de decisión:** cada persona elige los temas en que desea formarse, aplicando el **proceso de consejo**: expone su intención, consulta a pares y a una persona con experiencia, y decide luego de recibir recomendaciones.
+**Aprendizaje entre pares:** se habilita una **plataforma interna de registro de habilidades**, inspirada en el **Knowledge Inventory** de la NASA, que permite visibilizar competencias de cada miembro.([About Knowledge Inventory](https://appel.nasa.gov/about-knowledge-inventory))
+Además, se promueven **círculos de aprendizaje**, donde alguien comparte conocimientos técnicos o personales con sus pares.
+**Desarrollo integral:** también se financian cursos en habilidades blandas o áreas no técnicas (como arte, caligrafía o filosofía). Esto sigue el paradigma de Steve Jobs, quien aplicó su aprendizaje en caligrafía al diseño de tipografías de Mac.([The Secret To Increasing Your Company's Income By 218%](https://gomindspring.com/article/the-secret-to-increasing-your-companys-income-by-218))
+
+## 5.2 Innovación estructurada
+
+**Modelo de innovación:** sin horarios fijos, la innovación ocurre de forma orgánica pero con estructura tipo célula:
+- Cada iniciativa innovadora se activa como un **micro‑proyecto** con responsable de resultado.
+- Debe tener:
+  - objetivo claro (ej. reducir un 10 % el tiempo de un proceso),
+  - definición de éxito medible,
+  - duración entre 4 y 6 semanas.
+- Al finalizar, la célula decide si escala, refina o descarta el proyecto.
+**Espacios de colaboración:**
+- **Físicos:** espacios flexibles como el “Nequi Lab” de Bancolombia para prototipar y trabajar juntos.([The Secret To Increasing Your Company's Income By 218%](https://gomindspring.com/article/the-secret-to-increasing-your-companys-income-by-218))
+- **Virtuales:** se usan tableros colaborativos (Notion, Trello) y el repositorio de habilidades.
+**Decisiones de inversión en innovación:** siempre mediante el *proceso de consejo*: el proponente consulta a quienes se verán afectados y a alguien con experiencia, documenta los consejos y decide con la información recibida.
+**Conexión con formación:** cada micro-proyecto debe vincular al menos a una persona que esté en proceso de formación relacionada, integrando aprendizaje personal con resultados concretos.
+
+## 5.3 Enfoque híbrido de desarrollo
+
+**Transición al aprendizaje autodirigido:** se parte de talleres, seminarios o cursos externos, pero se promueve que cada persona forme y ejecute su plan de desarrollo, con apoyo y mentoría.
+**Apoyo para quienes requieren más guía:** se ofrecen mentorías, coaching y comunidades de práctica para compartir experiencias.
+**Validación del aprendizaje:** se evalúa a través de indicadores como:
+- participación en proyectos de innovación,
+- reconocimiento por parte de pares,
+- impacto real en clientes o procesos (medido en eficiencia, satisfacción, etc.).
+
+## 5.4 Innovación y justificación
+
+**Prácticas innovadoras:**
+- **Red de mentorías internas**, donde las personas enseñan temas técnicos y personales que les apasionan.
+- **Formación comunitaria**: se incentiva que el equipo capacite a personas externas, fortaleciendo el ecosistema local, lo cual también se valora al revisar impacto para temas salariales.
+**Ejemplos reales:**
+- **W\.L. Gore & Associates** (fabricante de Gore‑Tex), que opera con estructuras horizontales y promueve el aprendizaje autodirigido como fuente de innovación.([Proving The ROI Value of Learning and Development ...](https://www.kernandpartners.com/post/proving-the-roi-value-of-learning-and-development-investments))
+- **3M**, que históricamente asigna tiempo libre para proyectos personales, generando productos icónicos como Post‑it.([The Secret To Increasing Your Company's Income By 218%](https://gomindspring.com/article/the-secret-to-increasing-your-companys-income-by-218))
+- **Bancolombia/Nequi (Colombia)**: uso de laboratorios internos como ecosistemas de innovación flexibles y conectados con prioridades estratégicas.([Systems Engineering Leadership Program (SELP) Overview](https://appel.nasa.gov/career-development/selp-overview))
+**Por qué funciona mejor que la formación tradicional:**
+- **McKinsey** demuestra que el aprendizaje autodirigido, integrado al flujo de trabajo, es más motivador y económico que los programas centralizados.([Proving The ROI Value of Learning and Development ...](https://www.kernandpartners.com/post/proving-the-roi-value-of-learning-and-development-investments))
+- La evidencia en gestión del conocimiento señala que el aprendizaje entre pares acelera la adopción de habilidades y genera mayor impacto innovador que la formación vertical.([Mind-blowing Statistics that Prove the Value of Employee ...](https://www.shiftelearning.com/blog/statistics-value-of-employee-training-and-development))
