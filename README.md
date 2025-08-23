@@ -140,16 +140,16 @@ c. **Costos indirectos** (20 % del subtotal): 168 000 COP
 - **Protección mutua**: margen razonable asegura sostenibilidad de la empresa sin inflar costos; modelo de ahorro compartido alinea incentivos.
 - **Contexto colombiano**: rangos calculados con tarifas de mercado de perfiles técnicos y costos de nube local, ajustados por inflación y tipo de cambio actuales.
 
-## 3. Estructura de Costos y Asignación
+# 3. Estructura de Costos y Asignación
 
-### 3.1 Principios generales
+## 3.1 Principios generales
 
 - **Transparencia progresiva**: al inicio no se revelan cifras exactas de salarios entre equipos, pero sí las bandas salariales por nivel de experiencia y rol. Esto evita comparaciones descontextualizadas y mantiene un piso común de equidad. La idea es que esta sea una medida temporal, mientras se consolida la cultura de confianza y autogestión. Será necesario revisar periódicamente la viabilidad de esta medida tanto dentro de las dinámicas internas como en el contexto nacional.
 - **Autonomía presupuestal por equipo**: cada célula administra una parte de sus recursos para incentivos, formación y mejoras de su entorno de trabajo.
 - **Reinversión obligatoria**: el 30 % del ingreso total se destina directamente a la empresa para sostener innovación, formación y gastos comunes de infraestructura.
 - **Equidad ligada a experiencia**: perfiles con mayor nivel técnico o experiencia reciben remuneraciones acordes a bandas predefinidas y aprobadas por consenso inter–equipos.
 
-### 3.2 Distribución de un ingreso típico por proyecto
+## 3.2 Distribución de un ingreso típico por proyecto
 
 Ejemplo: Proyecto P3 con valor de **3 000 000 COP**.
 
@@ -164,7 +164,7 @@ Ejemplo: Proyecto P3 con valor de **3 000 000 COP**.
 
 
 
-#### 3.2.1 Justificación
+### 3.2.1 Justificación
 
 - **40 % para el equipo ejecutor**: asegura que la mayor parte del ingreso generado por el proyecto vaya directamente a quienes lo realizan. Este monto cubre remuneraciones según bandas salariales, horas invertidas y bonificaciones internas por desempeño o cumplimiento de hitos.
 - **25 % para el fondo corporativo de reinversión**: garantiza recursos para innovación, desarrollo de herramientas internas, mantenimiento de infraestructura de hosting, adquisición de licencias estratégicas y cobertura de la administración mínima necesaria.
@@ -172,7 +172,7 @@ Ejemplo: Proyecto P3 con valor de **3 000 000 COP**.
 - **15 % de margen operativo neto**: reserva destinada a contingencias, liquidez y expansión futura, asegurando la estabilidad financiera de la empresa sin comprometer la capacidad de inversión en el equipo ni en innovación.
 
 
-### 3.3 Presupuesto de formación y desarrollo
+## 3.3 Presupuesto de formación y desarrollo
 
 - **Asignación por persona**: cada integrante recibe un presupuesto semestral o anual para cursos o certificaciones, independiente de su rol.
 - **Autonomía total**: la persona decide el curso que quiere hacer, tras un proceso breve de “solicitud de consejo” a su equipo cercano o a alguien con experiencia en el tema.
@@ -180,7 +180,7 @@ Ejemplo: Proyecto P3 con valor de **3 000 000 COP**.
 - **Ejemplos**: un desarrollador que quiere aprender DevOps con Kubernetes, un miembro de ventas que quiere tomar un curso de negociación avanzada, etc.
 
 
-### 3.4 Formación continua ofrecida por la empresa
+## 3.4 Formación continua ofrecida por la empresa
 
 La empresa organiza, con parte del fondo corporativo:
 
@@ -190,14 +190,14 @@ La empresa organiza, con parte del fondo corporativo:
 - Formación en **mentalidad empresarial**: que cada persona sea capaz de generar propuesta de valor y pensar como socio, no solo como empleado.
 
 
-### 3.5 Gobernanza y control
+## 3.5 Gobernanza y control
 
 - **Reporte semestral interno**: cada equipo presenta un resumen del uso de sus fondos de incentivos y formación.
 - **Revisión cruzada**: otro equipo revisa que los gastos declarados correspondan a lo aprobado y que haya evidencia del impacto (certificados, mejoras implementadas).
 - **Ajuste anual de bandas salariales**: revisión según mercado y desempeño colectivo.
 
 
-### 3.6 Justificación del modelo
+## 3.6 Justificación del modelo
 
 - **Culturalmente viable** en Colombia: evita choques iniciales por revelación de salarios individuales, pero mantiene reglas claras y visibles para evitar inequidades.
 - **Fomenta autogestión real**: al darle al equipo autonomía sobre una parte del presupuesto, se les entrena en manejo de recursos, priorización y negociación interna.
@@ -221,7 +221,7 @@ La empresa organiza, con parte del fondo corporativo:
 - Las conversaciones de feedback son **entre pares**, con acuerdos de mejora por escrito.
 - Base comparativa: organizaciones sin jefes formales han usado **acuerdos de responsabilidades escritos entre colegas** para alinear expectativas (p. ej., el “CLOU” de Morning Star). ([Self-Management Pioneers Series: The Morning Star ...](https://medium.com/dartagnanjournal/self-management-pioneers-series-the-morning-star-company-065cabf76648), [Morning Star's Self Management Success Story: No…](https://www.corporate-rebels.com/blog/morning-star), [Morning Star](https://reinventingorganizationswiki.com/en/cases/morning-star))
 
-#### 4.2.1 Evolución hacia transparencia salarial completa
+### 4.2.1 Evolución hacia transparencia salarial completa
 
 **Fase actual (meses 1-12)**: Bandas salariales visibles por rol y experiencia, montos individuales privados:
 - Junior (0-2 años): 3.5-4.5 M COP
@@ -263,7 +263,7 @@ La empresa organiza, con parte del fondo corporativo:
 
    - Un **30 %** permite repartir un monto significativo y, a la vez, conservar caja para reservas y crecimiento (ver guardas abajo). Si la utilidad es baja, el 30 % también lo será: el esquema **se autoajusta**.
 
-### Porcentaje y cálculo base
+### 4.4.1 Porcentaje y cálculo base
 
 - **25% de utilidad neta** para la BAR (Bolsa Anual a Repartir entre el equipo)
 - **5% adicional de utilidad neta** para el Fondo de Impacto Comunitario
@@ -273,7 +273,7 @@ La empresa organiza, con parte del fondo corporativo:
 - BAR = 0,25 × UN
 - FIC = 0,05 × UN
 
-### Distribución de la BAR: exclusivamente igualitaria entre toda la empresa
+### 4.4.2 Distribución de la BAR: exclusivamente igualitaria entre toda la empresa
 
 La BAR se distribuye en **partes iguales** entre **todos los miembros de la empresa**, ajustada únicamente por tiempo de vinculación:
 
@@ -289,7 +289,7 @@ La BAR se distribuye en **partes iguales** entre **todos los miembros de la empr
 - La diferenciación por contribución ya está reflejada en las bandas salariales base consensuadas
 - Fortalece el sentido de propiedad colectiva sobre los resultados de la empresa
 
-### Reglas de estabilidad (aplican solo a la BAR):
+### 4.4.3 Reglas de estabilidad (aplican solo a la BAR):
 
 - Si la **reserva de liquidez** < 3 meses de gastos fijos, la BAR puede ajustarse a **0,20 × UN** hasta alcanzar esa cobertura
 - Si hay inversiones aprobadas > 15% de los ingresos anuales, la BAR puede situarse entre **0,20–0,25 × UN** ese año
@@ -354,7 +354,7 @@ La BAR se distribuye en **partes iguales** entre **todos los miembros de la empr
 - **Decisión por consejo ampliado**: incluye equipo interno + 2 representantes de organizaciones beneficiarias
 - **Revisión anual**: evaluar efectividad y ajustar enfoque según aprendizajes
 
-### Organización interna para ejecutar iniciativas comunitarias
+### 4.11.1 Organización interna para ejecutar iniciativas comunitarias
 
 **Modalidades de participación**:
 
@@ -399,7 +399,7 @@ Todas las iniciativas se documentan sistemáticamente incluyendo: recursos inver
 
 ## 4.12 Casos límite y resolución de conflictos en el reparto igualitario
 
-### Escenarios de elegibilidad para la BAR:
+### 4.12.1 Escenarios de elegibilidad para la BAR:
 
 **Caso A**: Persona con bajo desempeño individual pero que cumple requisitos básicos
 - **Resolución**: Mantiene elegibilidad completa para BAR (reparto igualitario se respeta)
@@ -421,11 +421,11 @@ Todas las iniciativas se documentan sistemáticamente incluyendo: recursos inver
 - **Licencias no remuneradas > 3 meses**: Elegibilidad proporcional al tiempo efectivo trabajado en el año fiscal
 - **Trabajo comunitario (FIC)**: Tiempo dedicado a proyectos del FIC cuenta como tiempo trabajado para efectos de BAR
 
-### Proceso de apelación:
+### 4.12.2 Proceso de apelación:
 
 Cualquier decisión sobre elegibilidad puede apelarse ante un panel de 3 personas elegidas por sorteo (excluida la persona afectada y personas en conflicto directo) con decisión vinculante en 15 días hábiles.
 
-### Principio rector:
+### 4.12.3 Principio rector:
 
 En caso de duda sobre elegibilidad, se favorece la **inclusión en el reparto igualitario**. La BAR es un derecho colectivo que solo se pierde por situaciones excepcionales y mediante proceso transparente con múltiples salvaguardas.
 
@@ -434,48 +434,57 @@ En caso de duda sobre elegibilidad, se favorece la **inclusión en el reparto ig
 ## 5.1 Inversión en aprendizaje autodirigido
 
 **Porcentaje destinado:** se propone asignar **2–3 % de los ingresos anuales** al desarrollo autodirigido de cada persona.
-**Justificación:**
-- La Association for Talent Development (ATD) reporta que las organizaciones exitosas invierten alrededor del **2,9 % de sus ingresos** en actividad de formación, una cifra que representa el nivel más alto en los últimos cinco años.([ATD Releases 2025 State of the Industry Report](https://www.td.org/content/press-release/atd-research-optimism-remains-strong-for-future-of-learning-in-organizations))
-- En Latinoamérica, **Deloitte (2023)** destaca que las empresas están migrando de programas tradicionales a modelos de aprendizaje autodirigido, por su mayor impacto en motivación y retorno.([Profiting From Learning: Do Firms' Investments ...](https://businesstrainingexperts.com/knowledge-center/training-roi/profiting-from-learning))
-- El rango —2–3 %— está en línea con el modelo financiero general (40 % para el equipo, 25 % fondo corporativo, 20 % costos directos, 15 % margen), y se financiaría desde el fondo corporativo sin comprometer liquidez.
-**Proceso de decisión:** cada persona elige los temas en que desea formarse, aplicando el **proceso de consejo**: expone su intención, consulta a pares y a una persona con experiencia, y decide luego de recibir recomendaciones.
-**Aprendizaje entre pares:** se habilita una **plataforma interna de registro de habilidades**, inspirada en el **Knowledge Inventory** de la NASA, que permite visibilizar competencias de cada miembro.([About Knowledge Inventory](https://appel.nasa.gov/about-knowledge-inventory))
-Además, se promueven **círculos de aprendizaje**, donde alguien comparte conocimientos técnicos o personales con sus pares.
-**Desarrollo integral:** también se financian cursos en habilidades blandas o áreas no técnicas (como arte, caligrafía o filosofía). Esto sigue el paradigma de Steve Jobs, quien aplicó su aprendizaje en caligrafía al diseño de tipografías de Mac.([The Secret To Increasing Your Company's Income By 218%](https://gomindspring.com/article/the-secret-to-increasing-your-companys-income-by-218))
+
+### 5.1.1 Justificación:
+
+- La Association for Talent Development (ATD) informó que las organizaciones más exitosas invierten un **2,9 % de sus ingresos** en actividades de formación, el nivel más alto registrado en los últimos cinco años.([ATD Releases 2025 State of the Industry Report](https://www.td.org/content/press-release/atd-research-optimism-remains-strong-for-future-of-learning-in-organizations))
+- En Latinoamérica, modelos recientes están migrando desde capacitaciones tradicionales hacia dinámicas de aprendizaje autodirigido por su impacto en motivación y resultados. Aunque no encontramos datos exactos de Deloitte, hay consenso sobre esta tendencia.([Learning and development](https://www.deloitte.com/be/en/about/story/purpose-values/learning-and-development.html))
+- Este rango de inversión encaja en el modelo general (40 % equipo – 25 % fondo corporativo – 20 % costos directos – 15 % margen), financiándose directamente del fondo corporativo dodnde representa aproximadamente el 10–12 % de dicho fondo, asegurando sostenibilidad financiera sin comprometer liquidez.
+**Proceso de decisión:** cada persona elige la formación que desea hacer, aplicando el proceso de consejo: expone su plan, consulta a pares y a alguien con experiencia, y decide informadamente.
+**Aprendizaje entre pares:** se habilita una **plataforma interna de registro de habilidades**, inspirada en el **Knowledge Inventory de la NASA**, para visibilizar competencias y facilitar el acompañamiento entre colaboradores.([68 Training Industry Statistics: 2025 Data, Trends & ...](https://research.com/careers/training-industry-statistics))
+Además, se promoverán **círculos de aprendizaje**, espacios pequeños donde se comparte conocimiento técnico o personal.
+**Desarrollo integral:** se financian cursos en áreas no técnicas (como arte, filosofía o caligrafía). Esto sigue el paradigma de Steve Jobs, quien aplicó su aprendizaje en caligrafía al diseño tipográfico de la Mac.([Employee Training Statistics: The Must-Know Trends and ...](https://buildempire.co.uk/employee-training-statistics))
 
 ## 5.2 Innovación estructurada
 
-**Modelo de innovación:** sin horarios fijos, la innovación ocurre de forma orgánica pero con estructura tipo célula:
-- Cada iniciativa innovadora se activa como un **micro‑proyecto** con responsable de resultado.
-- Debe tener:
-  - objetivo claro (ej. reducir un 10 % el tiempo de un proceso),
-  - definición de éxito medible,
-  - duración entre 4 y 6 semanas.
-- Al finalizar, la célula decide si escala, refina o descarta el proyecto.
-**Espacios de colaboración:**
-- **Físicos:** espacios flexibles como el “Nequi Lab” de Bancolombia para prototipar y trabajar juntos.([The Secret To Increasing Your Company's Income By 218%](https://gomindspring.com/article/the-secret-to-increasing-your-companys-income-by-218))
-- **Virtuales:** se usan tableros colaborativos (Notion, Trello) y el repositorio de habilidades.
-**Decisiones de inversión en innovación:** siempre mediante el *proceso de consejo*: el proponente consulta a quienes se verán afectados y a alguien con experiencia, documenta los consejos y decide con la información recibida.
-**Conexión con formación:** cada micro-proyecto debe vincular al menos a una persona que esté en proceso de formación relacionada, integrando aprendizaje personal con resultados concretos.
+**Modelo de innovación:** aunque no hay horarios estructurados para innovar, las ideas surgen como **micro-proyectos estructurados tipo célula**:
+- Iniciativa activada con un responsable definido, una definición de éxito clara (por ejemplo, reducir un 10 % el tiempo de un proceso) y una duración de **4 – 6 semanas**.
+- Al finalizar, la célula decide si escala, refina o descarta el proyecto —documentando siempre el aprendizaje, manteniendo la trazabilidad.
+
+### 5.2.1 Espacios de colaboración:
+
+- **Físicos:** como el “Nequi Lab” de Bancolombia, diseñados para prototipado y encuentro creativo.([Deloitte Learning Academy](https://www.deloitte.com/in/en/about/story/deloitte-learning-academy.html))
+- **Virtuales:** uso de plataformas colaborativas (Notion, Trello) y el repositorio interno de habilidades.
+**Decisiones de innovación:** siempre se toman mediante el proceso de consejo —consulta con implicados, feedback de alguien con experiencia, y decisión articulada y documentada.
+
+**Conexión con formación:** cada micro-proyecto debe involucrar al menos una persona en formación en el área, fusionando aprendizaje personal con resultados tangibles.
+
+**Apoyo comunitario:** los micro-proyectos con potencial de impacto social pueden recibir financiación adicional de hasta un **5 % del Fondo de Impacto Comunitario (FIC)**, utilizando parte del 10 % destinado a herramientas abiertas, creando sinergias entre innovación interna y compromiso social.
 
 ## 5.3 Enfoque híbrido de desarrollo
 
-**Transición al aprendizaje autodirigido:** se parte de talleres, seminarios o cursos externos, pero se promueve que cada persona forme y ejecute su plan de desarrollo, con apoyo y mentoría.
-**Apoyo para quienes requieren más guía:** se ofrecen mentorías, coaching y comunidades de práctica para compartir experiencias.
-**Validación del aprendizaje:** se evalúa a través de indicadores como:
-- participación en proyectos de innovación,
-- reconocimiento por parte de pares,
-- impacto real en clientes o procesos (medido en eficiencia, satisfacción, etc.).
+- **Transición al aprendizaje autodirigido:** partimos de talleres y seminarios, y gradualmente se impulsa a que cada persona ejeecute su plan de desarrollo con apoyo, mentoría y recursos adecuados.
+- **Apoyo para quienes lo necesiten:** se ofrecen mentorías formales, coaching y comunidades de práctica para compartir aprendizajes y experiencias.
+- **Validación del aprendizaje:** evaluamos la efectividad mediante indicadores como:
+  - participación en proyectos de innovación,
+  - reconocimiento por parte de pares,
+  - impacto medible en procesos o clientes (eficiencia, satisfacción).
 
 ## 5.4 Innovación y justificación
 
-**Prácticas innovadoras:**
-- **Red de mentorías internas**, donde las personas enseñan temas técnicos y personales que les apasionan.
-- **Formación comunitaria**: se incentiva que el equipo capacite a personas externas, fortaleciendo el ecosistema local, lo cual también se valora al revisar impacto para temas salariales.
-**Ejemplos reales:**
-- **W\.L. Gore & Associates** (fabricante de Gore‑Tex), que opera con estructuras horizontales y promueve el aprendizaje autodirigido como fuente de innovación.([Proving The ROI Value of Learning and Development ...](https://www.kernandpartners.com/post/proving-the-roi-value-of-learning-and-development-investments))
-- **3M**, que históricamente asigna tiempo libre para proyectos personales, generando productos icónicos como Post‑it.([The Secret To Increasing Your Company's Income By 218%](https://gomindspring.com/article/the-secret-to-increasing-your-companys-income-by-218))
-- **Bancolombia/Nequi (Colombia)**: uso de laboratorios internos como ecosistemas de innovación flexibles y conectados con prioridades estratégicas.([Systems Engineering Leadership Program (SELP) Overview](https://appel.nasa.gov/career-development/selp-overview))
-**Por qué funciona mejor que la formación tradicional:**
-- **McKinsey** demuestra que el aprendizaje autodirigido, integrado al flujo de trabajo, es más motivador y económico que los programas centralizados.([Proving The ROI Value of Learning and Development ...](https://www.kernandpartners.com/post/proving-the-roi-value-of-learning-and-development-investments))
-- La evidencia en gestión del conocimiento señala que el aprendizaje entre pares acelera la adopción de habilidades y genera mayor impacto innovador que la formación vertical.([Mind-blowing Statistics that Prove the Value of Employee ...](https://www.shiftelearning.com/blog/statistics-value-of-employee-training-and-development))
+
+### 5.4.1 Prácticas innovadoras:
+
+- **Red de mentorías internas**, donde quienes tienen pasión y experiencia enseñan a otros, no solo en lo técnico sino también en lo personal.
+- **Formación comunitaria:** incentivar que el equipo capacite a personas externas fortalece el ecosistema local, y ese impacto también se valora internamente.
+
+### 5.4.2 Ejemplos reales:
+
+- **W\.L. Gore & Associates** (fabricante de Gore‑Tex): modelo basado en estructuras horizontales y aprendizaje autodirigido para potenciar innovación.([Deloitte Learning Academy](https://www.deloitte.com/in/en/about/story/deloitte-learning-academy.html))
+- **3M**: con políticas como dedicar hasta un 15 % del tiempo laboral a proyectos personales (miembro de su cultura corporativa), generó innovaciones como el Post-it.([Employee Training Statistics: The Must-Know Trends and ...](https://buildempire.co.uk/employee-training-statistics))
+- **Bancolombia/Nequi (Colombia)**: uso de laboratorios internos para innovación ágil alineada con necesidades estratégicas.([Deloitte Learning Academy](https://www.deloitte.com/in/en/about/story/deloitte-learning-academy.html))
+
+### 5.4.3 Ventajas frente a formación tradicional:
+
+- El **aprendizaje en flujo de trabajo** (learning in the flow of work) es más motivador y coste-efectivo comparado con la formación aislada, según análisis como el de McKinsey sobre ROI en L\&D.([What ATD's 2025 State of the Industry report means for you](https://www.absorblms.com/blog/atd-state-of-industry-report-takeaways))
+- Los programas con aprendizaje entre pares aceleran la adopción de habilidades y mejoran la innovación respecto a métodos jerarquizados individuales.([Employee Training Statistics: The Must-Know Trends and ...](https://buildempire.co.uk/employee-training-statistics))
