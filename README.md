@@ -273,6 +273,8 @@ La empresa organiza, con parte del fondo corporativo:
 - BAR = 0,25 × UN
 - FIC = 0,05 × UN
 
+> Fondo de Impacto Comunitario (FIC)
+
 ### 4.4.2 Distribución de la BAR: exclusivamente igualitaria entre toda la empresa
 
 La BAR se distribuye en **partes iguales** entre **todos los miembros de la empresa**, ajustada únicamente por tiempo de vinculación:
